@@ -1,0 +1,75 @@
+body
+{
+  margin:0px;
+  padding:0px;
+}
+
+.hd
+{
+	width: 80%;
+	height: 8rem;
+	background-color:#33FF33;
+	color: white;
+	padding:2rem;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.ban
+{
+    width: 84%;
+    height: 8rem;
+    bottom: 5rem;
+}
+
+.bigtit
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    color:white;
+}
+
+.tit
+{
+    font-size: xx-large;
+    font-weight: bolder;
+    color:blue;
+}
+
+.bt
+{
+	background-color: 	#FFDD55;
+	width: 10rem;
+	height: 4rem;
+}
+
+.md
+{
+    width: 80%;
+    height: 100%;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 10%;
+}
+
+.sec
+{
+	color: black;
+}
+
+.myphoto
+{
+   float: right;
+}
+
+footer
+{
+    height: 3rem;
+    width: 100%;
+    background-color: black;
+}
+
+.foot
+{
+    color: white;
+}
